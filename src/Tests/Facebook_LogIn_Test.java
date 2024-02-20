@@ -62,7 +62,9 @@ public class Facebook_LogIn_Test extends TestBaseClass {
 		pg.Negative_Login(driver,ConfigReader.ReadProperty("email"), ConfigReader.ReadProperty("Wrongpassword"));
 		
 		
-	}
+	} 
+	
+	// git comiit 
 	
 	
 
